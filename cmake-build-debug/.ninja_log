@@ -1,0 +1,16 @@
+# ninja log v5
+710	953	7325264004842745	OOP_lab_1_8.exe	d89e1b6770f898db
+6	886	7325264484354891	Google_tests/CMakeFiles/Google_Tests_run.dir/__/Account.cpp.obj	653a3ed83930b30c
+16	1739	7325264492867483	Google_tests/lib/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	c968782a7cc4b42b
+1	1839	7325264493880798	Google_tests/CMakeFiles/Google_Tests_run.dir/test.cpp.obj	c6de93a97e1ba44a
+13796	18241	7325264657836158	Google_tests/Google_Tests_run.exe	82cf8b28811c7590
+11	10066	7325264575942567	Google_tests/lib/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	fa5846d542692cb2
+10078	13735	7325264612850234	lib/libgtest.a	80e51ea2faea77a2
+13735	13796	7325264613469802	lib/libgtest_main.a	40ea9b0ea19f92d6
+2	2648	1711019227322097297	Google_tests/lib/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	bda3db9f8736fdd1
+4	2816	1711019227492470562	Google_tests/CMakeFiles/Google_Tests_run.dir/test.cpp.o	6317a7b5129bf599
+2654	4168	1711019228844603657	Google_tests/CMakeFiles/Google_Tests_run.dir/__/Account.cpp.o	ec15896d11e45260
+0	6841	1711019231508831228	Google_tests/lib/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	7436fe9234e1df40
+6842	6968	1711019231658157000	lib/libgtest.a	c6f01884f2718f79
+6968	7045	1711019231735441000	lib/libgtest_main.a	2cc3c6d061b36794
+7046	7222	1711019231899900220	Google_tests/Google_Tests_run	5aab95152c69165e
